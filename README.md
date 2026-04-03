@@ -4,13 +4,13 @@
 ## 🖼️ Dashboard Preview
 
 ### **Page 1 – HR Overview**
-![Dashboard Page 1](Images/page1.png)
+![Dashboard Page 1](images/page1.png)
 
 ### **Page 2 – Compensation & Growth Analysis**
-![Dashboard Page 2](Images/page2.png)
+![Dashboard Page 2](images/page2.png)
 
 ### **Page 3 – Summary Dashboard**
-![Dashboard Page 3](Images/page3.png)
+![Dashboard Page 3](images/page3.png)
 
 ---
 
