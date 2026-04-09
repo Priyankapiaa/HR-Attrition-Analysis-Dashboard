@@ -48,5 +48,5 @@ A PDF export of the dashboard is available here:
 
 ## ✨ Author
 
-Created by *Priyankapiaa* as part of a data analytics learning journey.
+Created by *Priyanka* as part of a data analytics learning journey.
 
